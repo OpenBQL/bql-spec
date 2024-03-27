@@ -1,2 +1,2 @@
 # bql-spec
-The Blockchain Quest Language Specification
+The Blockchain Q Language Specification
